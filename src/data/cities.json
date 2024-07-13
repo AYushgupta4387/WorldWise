@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "ec29",
+      "cityName": "Bhopal",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-25T21:39:22.257Z",
+      "notes": "Home <3",
+      "position": {
+        "lat": "23.257479002483986",
+        "lng": "77.47558593750001"
+      }
+    },
+    {
+      "id": "4b08",
+      "cityName": "Sirsi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-28T17:20:48.321Z",
+      "notes": "Okay",
+      "position": {
+        "lat": "14.627241156179547",
+        "lng": "74.86083984375001"
+      }
+    },
+    {
+      "id": "7b7f",
+      "cityName": "Jaipur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-28T18:55:58.826Z",
+      "notes": "Ghar",
+      "position": {
+        "lat": "26.914722928870564",
+        "lng": "75.81390380859375"
+      }
+    },
+    {
+      "id": "4584",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-06-28T19:00:56.227Z",
+      "notes": "",
+      "position": {
+        "lat": "12.983147716796578",
+        "lng": "77.60742187500001"
+      }
+    },
+    {
+      "id": "73ea",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-06-29T06:01:13.911Z",
+      "notes": "Beautiful",
+      "position": {
+        "lat": "48.8325668038064",
+        "lng": "2.3565673828125"
+      }
+    }
+  ]
+}
